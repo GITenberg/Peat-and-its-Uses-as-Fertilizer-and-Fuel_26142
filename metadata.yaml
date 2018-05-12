@@ -1,0 +1,30 @@
+_repo: Peat-and-its-Uses-as-Fertilizer-and-Fuel_26142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Samuel W. (Samuel William)
+    birthdate: 1830
+    deathdate: 1909
+    gutenberg_agent_id: '31821'
+    url: http://www.gutenberg.org/2009/agents/31821
+description: ''
+gutenberg_issued: '2008-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26142'
+  lccn: 06018169
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peat'
+- !lcc 'TN'
+- !lcc 'SB'
+- !lcsh 'Fertilizers'
+- !lcsh 'Fuel'
+title: Peat and its Uses as Fertilizer and Fuel
+url: http://www.gutenberg.org/ebooks/26142
